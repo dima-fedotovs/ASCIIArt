@@ -20,6 +20,7 @@ public class Main {
                     System.out.print((w == 0 || w == width - 1 || h == 0 || h == height - 1) ? "*" : "-");
                 }
                 System.out.println();
+                
             }
             System.out.println();
         }
